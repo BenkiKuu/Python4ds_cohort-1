@@ -3,11 +3,11 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Finished going through Chapter one
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: I loved the IPython shell it was amazing playing arround with it was cool
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: [introduction(Ipython)](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
